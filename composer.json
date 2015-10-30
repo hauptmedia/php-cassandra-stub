@@ -1,0 +1,15 @@
+{
+  "name": "hauptmedia/cassandra-stub",
+  "type": "library",
+  "homepage": "https://github.com/hauptmedia/php-cassandra-stub",
+  "license": "MIT",
+  "autoload": {
+    "classmap": [
+      "stubs"
+    ]
+  },
+  "require": {
+    "php": ">=5.3",
+    "ext-cassandra": "*"
+  }
+}
