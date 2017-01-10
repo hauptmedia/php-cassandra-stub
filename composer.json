@@ -9,7 +9,6 @@
     ]
   },
   "require": {
-    "php": ">=5.3",
-    "ext-cassandra": "*"
+    "php": ">=5.3"
   }
 }
